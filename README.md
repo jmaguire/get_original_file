@@ -10,7 +10,7 @@ A tool to find the most similar `theme.css` file using TF-IDF.
 
 The repository is organized as follows:
 
-my_theme_tool/ <-- Parent folder (repository root) 
+my_theme_tool/ <-- Parent folder (repository root)
 ├── my_theme_tool/ <-- Python package directory 
 │ ├── init.py 
 │ └── main.py <-- Contains the main code and CLI entry point 
