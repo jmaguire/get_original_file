@@ -9,7 +9,7 @@ A tool to find the most similar `theme.css` file using TF-IDF.
 ## Project Structure
 
 The repository is organized as follows:
-
+```plaintext
 my_theme_tool/ <-- Parent folder (repository root)
 ├── my_theme_tool/ <-- Python package directory 
 │ ├── init.py 
@@ -17,7 +17,7 @@ my_theme_tool/ <-- Parent folder (repository root)
 ├── README.md <-- This file 
 ├── requirements.txt <-- Package dependencies 
 └── setup.py <-- Package configuration and entry point definition
-
+```
 
 ## Setup Instructions
 
